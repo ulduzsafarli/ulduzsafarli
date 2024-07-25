@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Ulduz Safarli, a passionate backend developer with expertise in Java and Spring Boot technologies. I graduated from Azerbaijan State Oil and Industry University with a Bachelor's degree in Information Technologies and Control. My professional experience includes working on various backend projects, from property evaluation systems to banking and hotel booking services.
+Hello! I'm Ulduz Safarli, a passionate backend developer with Java and Spring Boot technologies expertise. I graduated from Azerbaijan State Oil and Industry University with a Bachelor's degree in Information Technologies and Control. My professional experience includes various backend projects, from property evaluation systems to banking and hotel booking services.
 
 ## Projects
 
@@ -13,8 +13,8 @@ Hello! I'm Ulduz Safarli, a passionate backend developer with expertise in Java 
 
 ### 📚 Other Projects:
 
-- **Collateral Operation Service**: A service that processes client requests, communicates with XML-based services, and handles data parsing and validation.
-- **Property Price Evaluation System**: An automated system for evaluating property prices, handling customer data to provide accurate real estate price estimations.
+- **Collateral Operation Service**: A service that processes client requests, communicates with XML-based services and handles data parsing and validation.
+- **Property Price Evaluation System**: An automated system for evaluating property prices, and handling customer data to provide accurate real estate price estimations.
 
 ## Skills and Technologies
 
