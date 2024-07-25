@@ -24,7 +24,7 @@ Hello! I'm Ulduz Safarli, a passionate backend developer with expertise in Java 
 - **Databases**: PostgreSQL, H2
 - **Others**: Microservices, RESTful APIs, JPA, Kafka, JWT, Liquibase, Lombok
 
-## Contact
+## Contact and Links
 
 - **Email**: [ulduzsafarli.dv@gmail.com](mailto:ulduzsafarli.dv@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ulduz-safarli)
