@@ -21,7 +21,7 @@ Hello! I'm Ulduz Safarli, a passionate backend developer with Java and Spring Bo
 - **Languages**: Java, C#, SQL
 - **Frameworks**: Spring Boot, Spring Security
 - **Tools**: Gradle, Git
-- **Databases**: PostgreSQL, H2
+- **Databases**: PostgreSQL, Redis, H2
 - **Others**: Microservices, RESTful APIs, JPA, Kafka, JWT, Liquibase, Lombok
 
 ## Contact and Links
