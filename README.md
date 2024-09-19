@@ -7,7 +7,7 @@ Hello! I'm Ulduz Safarli, a passionate backend developer with Java and Spring Bo
 ## Projects
 
 ### 🌟 Highlighted Projects:
-- **[Banking Service](https://github.com/ulduzsafarli/izum-bank-app)**: Backend functionality for managing account operations, user authentication, and secure transactions.
+- **[Banking Service](https://github.com/ulduzsafarli/bank-service)**: Backend functionality for managing account operations, user authentication, and secure transactions.
 - **[Hotel Booking Service](https://gitlab.com/final-procejt)**: A system for managing hotel bookings, payment processing, and user management.
 - **[Authentication Service](https://github.com/ulduzsafarli/authService)**: A C# project for authentication services.
 
