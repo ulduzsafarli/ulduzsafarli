@@ -14,7 +14,7 @@ Hello! I'm Ulduz Safarli, a passionate backend developer with Java and Spring Bo
 ### 📚 Other Projects:
 
 - **Collateral Operation Service**: A service that processes client requests, communicates with XML-based services and handles data parsing and validation.
-- **Property Price Evaluation System**: An automated system for evaluating property prices, and handling customer data to provide accurate real estate price estimations.
+- **Price Optimization System**: An automated system for evaluating property prices, and handling customer data to provide accurate real estate price estimations.
 
 ## Skills and Technologies
 
